@@ -20,5 +20,5 @@ int main()
 
 void fun()
 {
-	printf("현재 함수 : %s\n", __FUNCTION__);
+	printf("현재 : %s\n", __FUNCTION__);
 }
