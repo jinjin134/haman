@@ -9,7 +9,7 @@ int main(int argc, char *argv[]) // >pointerSample 10000 500: //Command Line 명�
 								 // 10000:Start mamory 주소
 								 // 500  :Dump할 메모리 크기
 {	int start = 0x09000000;
-	int length = 200;
+	int length = 500;
 
 
 	char c = 'A';    // %c
