@@ -1,6 +1,0 @@
-﻿  main.c
-D:\gujinseonwork\c\pointerSample\pointerSample\main.c(22,21): warning C4311: '형식 캐스트': 'char [100]'에서 'int'(으)로 포인터가 잘립니다.
-D:\gujinseonwork\c\pointerSample\pointerSample\main.c(34,26): warning C4312: '형식 캐스트': 'int'에서 더 큰 'void *'(으)로의 변환입니다.
-D:\gujinseonwork\c\pointerSample\pointerSample\main.c(44,25): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-D:\gujinseonwork\c\pointerSample\pointerSample\main.c(44,25): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
-  pointerSample.vcxproj -> D:\gujinseonwork\c\pointerSample\x64\Debug\pointerSample.exe
